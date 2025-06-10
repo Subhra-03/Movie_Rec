@@ -66,6 +66,6 @@ Contributions are welcomed! Feel free to submit pull requests to improve filteri
 
 This plot shows the most popular movies based on the weighted rating system:
 
-![Popularity Plot](images/output.png)
+![Popularity Plot](output.png)
 
 
