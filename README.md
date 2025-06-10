@@ -62,9 +62,11 @@ Enhancements planned for future iterations:
 ##  Contributing
 Contributions are welcomed! Feel free to submit pull requests to improve filtering techniques or optimize the recommendation engine.
 
-## 📂 Dataset
+##  Dataset
 
-- [`movies.csv`](tmdb_5000_movies.csv.zip):
+- [`movies.csv`](tmdb_5000_movies.csv.zip): This contains Movie_id , Title , Cast , Crew.
+- [`Credits.csv`](tmdb_5000_credits.csv.zip): This contains Budget , Genre , Keywords , Popularity etc.
+- [`rating.csv`](ratings_small.csv.zip): This contains userID , Movie-ID , ratings , timestramp.
 
 
 ## Popularity Plot
