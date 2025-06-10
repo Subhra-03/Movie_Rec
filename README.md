@@ -62,6 +62,11 @@ Enhancements planned for future iterations:
 ##  Contributing
 Contributions are welcomed! Feel free to submit pull requests to improve filtering techniques or optimize the recommendation engine.
 
+## 📂 Dataset
+
+- [`movies.csv`](tmdb_5000_movies.csv.zip):
+
+
 ## Popularity Plot
 
 This plot shows the most popular movies based on the weighted rating system:
